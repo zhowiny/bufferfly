@@ -1,6 +1,6 @@
 # butterfly
 
-> A Vue.js project
+> A butterfly effect
 
 ## Build Setup
 
