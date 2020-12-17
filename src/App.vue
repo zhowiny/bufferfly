@@ -3,16 +3,7 @@
     <div class="cnt">
       <div class="bufferfly" :style='{left:x+"px",top:y+"px",transitionDuration: (duration/1000)+"s, "+(duration/1000)+"s, .3s",transform:"rotate3d(0,0,1,"+(angle+90)+"deg)"}'>
         <span class="animated leftFly infinite left" /><span class="animated rightFly infinite right" /></div>
-      <div class="content">
-        <p>员工欢聚一堂<br>，共享欢乐时光<br>，增进团队凝聚力 <br>。</p>
-        <p style="top:0.75rem;">总结上一年度工作任务<br>，放眼下一年度工作目标<br>；</p>
-        <p style="top:-0.32rem;">年关将至<br>，感谢同仁们一年来的努力与付出<br>；</p>
-        <h2 style="margin-left:0.64rem;top:-0.64rem;"/>
-      </div>
-      <div class="address">
-        <p>时间 : 2017年1月8日 , 下午1:30</p>
-        <p>地点 : 深圳市罗湖区桂园街道蔡屋围一街京基金融中心裙楼01层01-132b及02层01-207a号商铺3D coffee馆</p>
-      </div>
+
     </div>
   </div>
 </template>
